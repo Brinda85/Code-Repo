@@ -1,0 +1,43 @@
+SR_x,ISIN_x,NAME OF THE INSTRUMENT,RATING_x,INDUSTRY_x,QUANTITY_x,SR_y,ISIN_y,RATING_y,INDUSTRY_y,QUANTITY_y
+1,INE002A01018,Reliance Industries Limited,N.A.,Petroleum Products,1696000,1,INE002A01018,N.A.,Petroleum Products,1767000
+2,INE040A01034,HDFC Bank Limited,N.A.,Banks,2248000,2,INE040A01034,N.A.,Banks,2248000
+3,INE062A01020,State Bank of India,N.A.,Banks,4300800,3,INE062A01020,N.A.,Banks,4300800
+4,INE154A01025,ITC Limited,N.A.,Diversified FMCG,3581550,5,INE154A01025,N.A.,Diversified FMCG,3581550
+5,INE406A01037,Aurobindo Pharma Limited,N.A.,Pharmaceuticals & Biotechnology,2412100,4,INE406A01037,N.A.,Pharmaceuticals & Biotechnology,2732100
+6,INE821I01022,IRB Infrastructure Developers Limited,N.A.,Construction,48485400,10,INE821I01022,N.A.,Construction,48485400
+7,INE018A01030,Larsen & Toubro Limited,N.A.,Construction,613000,21,INE018A01030,N.A.,Construction,296482
+8,INE00E101023,Bikaji Foods International Limited,N.A.,Food Products,3487764,8,INE00E101023,N.A.,Food Products,3487764
+9,INE160A01022,Punjab National Bank,N.A.,Banks,24970000,9,INE160A01022,N.A.,Banks,26970000
+10,INE151A01013,Tata Communications Limited,N.A.,Telecom - Services,984297,7,INE151A01013,N.A.,Telecom - Services,1008297
+11,INE214T01019,LTIMindtree Limited,N.A.,IT - Software,249350,6,INE214T01019,N.A.,IT - Software,310850
+12,INE473A01011,Linde India Ltd.,N.A.,Chemicals & Petrochemicals,295710,11,INE473A01011,N.A.,Chemicals & Petrochemicals,295710
+13,INE007A01025,CRISIL Limited,N.A.,Finance,296765,12,INE007A01025,N.A.,Finance,296765
+14,INE042A01014,Escorts Kubota Limited,N.A.,"Agricultural, Commercial & Construction Vehicles",511600,13,INE042A01014,N.A.,"Agricultural, Commercial & Construction Vehicles",511600
+15,INE930P01018,Anupam Rasayan India Limited,N.A.,Chemicals & Petrochemicals,914865,16,INE930P01018,N.A.,Chemicals & Petrochemicals,914865
+16,INE089A01023,Dr. Reddy's Laboratories Limited,N.A.,Pharmaceuticals & Biotechnology,229000,24,INE089A01023,N.A.,Pharmaceuticals & Biotechnology,129000
+17,INE481G01011,UltraTech Cement Limited,N.A.,Cement & Cement Products,127750,14,INE481G01011,N.A.,Cement & Cement Products,127750
+18,INE271C01023,DLF Limited,N.A.,Realty,2110000,15,INE271C01023,N.A.,Realty,2110000
+19,INE692A01016,Union Bank of India,N.A.,Banks,12873000,17,INE692A01016,N.A.,Banks,12873000
+20,INE061F01013,Fortis Healthcare Ltd,N.A.,Healthcare Services,2956542,19,INE061F01013,N.A.,Healthcare Services,2656542
+21,INE124G01033,Delta Corp Ltd,N.A.,Leisure Services,3201218,18,INE124G01033,N.A.,Leisure Services,3501218
+22,INE208C01025,Aegis Logistics Limited,N.A.,Gas,2115348,23,INE208C01025,N.A.,Gas,2115348
+23,INE548A01028,HFCL Limited,N.A.,Telecom - Services,11429268,20,INE548A01028,N.A.,Telecom - Services,11429268
+24,INE180C01026,Capri Global Capital Limited,N.A.,Finance,947300,22,INE180C01026,N.A.,Finance,947300
+25,INE493A01027,Tata Coffee Ltd.,N.A.,Agricultural Food & other Products,2662000,25,INE493A01027,N.A.,Agricultural Food & other Products,2662000
+27,INE239C01020,Stylam Industries Limited,N.A.,Consumer Durables,326470,45,INE239C01020,N.A.,Consumer Durables,124905
+28,INE939A01011,Strides Pharma Science Ltd,N.A.,Pharmaceuticals & Biotechnology,1422000,27,INE939A01011,N.A.,Pharmaceuticals & Biotechnology,1422000
+29,INE140A01024,Piramal Enterprises Limited,N.A.,Finance,618870,29,INE140A01024,N.A.,Finance,618870
+30,INE670K01029,Macrotech Developers Limited,N.A.,Realty,869786,28,INE670K01029,N.A.,Realty,869786
+32,INE226A01021,Voltas Limited,N.A.,Consumer Durables,520000,30,INE226A01021,N.A.,Consumer Durables,700000
+33,INE531E01026,Hindustan Copper Limited,N.A.,Non - Ferrous Metals,3768150,32,INE531E01026,N.A.,Non - Ferrous Metals,3768150
+34,INE0D6701023,India Pesticides Limited,N.A.,Fertilizers & Agrochemicals,1826550,34,INE0D6701023,N.A.,Fertilizers & Agrochemicals,1826550
+35,INE749A01030,Jindal Steel & Power Ltd,N.A.,Ferrous Metals,735000,33,INE749A01030,N.A.,Ferrous Metals,735000
+36,INE323A01026,Bosch Limited,N.A.,Auto Components,16245,36,INE323A01026,N.A.,Auto Components,16245
+37,INE634A01018,Honda India Power Products Limited,N.A.,Industrial Manufacturing,115559,38,INE634A01018,N.A.,Industrial Manufacturing,115559
+38,INE870H01013,Network18 Media & Investments Limited,N.A.,Entertainment,4150465,37,INE870H01013,N.A.,Entertainment,4150465
+39,INE229H01012,Nitin Spinners Limited,N.A.,Textiles & Apparels,881369,39,INE229H01012,N.A.,Textiles & Apparels,921336
+40,INE485A01015,Century Enka Limited,N.A.,Textiles & Apparels,549076,40,INE485A01015,N.A.,Textiles & Apparels,549076
+42,INE847C01020,Rossell India Limited,N.A.,Aerospace & Defense,771625,35,INE847C01020,N.A.,Aerospace & Defense,912700
+43,INE128X01021,Archean Chemical Industries Limited,N.A.,Chemicals & Petrochemicals,375835,44,INE128X01021,N.A.,Chemicals & Petrochemicals,375835
+44,INE886H01027,TV18 Broadcast Ltd,N.A.,Entertainment,2500000,26,INE886H01027,N.A.,Entertainment,17345526
+45,INE034S01021,Arvind SmartSpaces Limited,N.A.,Realty,168747,48,INE034S01021,N.A.,Realty,206098
